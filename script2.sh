@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Swarda
+# Author: SHREYA TIWARI
 
 PACKAGE="python3"
 
